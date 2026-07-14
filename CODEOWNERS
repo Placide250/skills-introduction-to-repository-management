@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Placide250
+/src/backend/database.py      @Placide250
+/src/backend/routers/auth.py  @Placide250
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Placide250
